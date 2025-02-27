@@ -20,9 +20,6 @@
 **Dev Tools:**
 
 <code><img height="20" src="https://static-00.iconduck.com/assets.00/file-type-git-icon-512x512-tkhraodm.png"></code>
-<code><img height="22" src="https://icon.icepanel.io/Technology/svg/Jira.svg"></code>
-<code><img height="21" src="https://icon.icepanel.io/Technology/svg/BitBucket.svg"></code>
-<code><img height="19" src="https://static-00.iconduck.com/assets.00/docker-icon-512x370-5593ilur.png"></code>
 <code><img height="19" src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png"></code>
 <code><img height="17" src="https://static-00.iconduck.com/assets.00/file-type-powershell-icon-512x388-zdz2zhdj.png"></code>
 <code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
