@@ -39,8 +39,6 @@
 **JetBrains IDEs:**
 
 <code><img height="22" src="https://icon.icepanel.io/Technology/svg/PyCharm.svg"></code>
-<code><img height="22" src="https://icon.icepanel.io/Technology/svg/DataGrip.svg"></code>
-<code><img height="22" src="https://icon.icepanel.io/Technology/svg/PhpStorm.svg"></code>
-<code><img height="22" src="https://icon.icepanel.io/Technology/svg/WebStorm.svg"></code>
+
 
 ---
