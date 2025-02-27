@@ -29,9 +29,7 @@
 
 **Databases:**
 
-<code><img height="21" src="https://static-00.iconduck.com/assets.00/file-type-sql-icon-365x512-90gjy9r4.png"></code>
-<code><img height="23" src="https://static-00.iconduck.com/assets.00/postgresql-icon-497x512-at6qw0yb.png"></code>
-<code><img height="25" src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-512x266-a48lsirx.png"></code>
+
 <code><img height="20" src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png"></code>
 
 ---
@@ -39,6 +37,3 @@
 **JetBrains IDEs:**
 
 <code><img height="22" src="https://icon.icepanel.io/Technology/svg/PyCharm.svg"></code>
-
-
----
