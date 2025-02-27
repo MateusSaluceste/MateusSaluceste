@@ -1,24 +1,10 @@
-
-# Hi 👋 I am Guilherme! 
-I am a Software Developer at [Botdoc](https://botdoc.io/), where I'm honing my skills in developing innovative solutions with modern technologies. I'm passionate about coding, learning new tools, and turning challenges into opportunities to grow as a developer.
-
-- <img height="14" src="https://static-00.iconduck.com/assets.00/linkedin-original-icon-512x512-myo6evy9.png"> Visit my [LinkedIn](https://www.linkedin.com/in/guilherme-capucho/) for more information.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeCapucho&show_icons=true&theme=dark" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCapucho&hide_progress=true&theme=dark" width="435" height="168">
-</p>
-
 **Backend:**
 
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="17" src="https://static-00.iconduck.com/assets.00/django-original-icon-512x218-q5sykxbe.png"></code>
-<code><img height="17" src="https://static-00.iconduck.com/assets.00/file-type-php-icon-512x270-q6v3iu7o.png"></code>
 <code><img height="20" src="https://icon.icepanel.io/Technology/svg/C.svg"></code>
 <code><img height="20" src="https://static-00.iconduck.com/assets.00/c-icon-456x512-ld9qap3k.png"></code>
-
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></code>
 ---
 
 **Frontend:**
