@@ -10,7 +10,6 @@
 **Frontend:**
 
 <code><img height="20" src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-476x512-31akx6uw.png"></code>
-<code><img height="19" src="https://static-00.iconduck.com/assets.00/file-type-reactjs-icon-512x455-5au546uy.png"></code>
 <code><img height="20" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg"></code>
 <code><img height="20" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg"></code>
 <code><img height="20" src="https://static-00.iconduck.com/assets.00/file-type-html-icon-451x512-vzyw6pa7.png"></code>
